@@ -46,6 +46,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifashahath&show_icons=true&theme=dark&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifashahath&layout=compact&theme=dark&hide_border=true" height="150">
+</p>
+
 ## 📂 Featured Projects
 - 🔗 XSS Automation Tool (Dalfox + XSStrike)
 - 🔗 Bug Hunting Checklist
